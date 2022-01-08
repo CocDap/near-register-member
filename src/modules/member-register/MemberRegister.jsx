@@ -65,10 +65,12 @@ const MemberRegister = () => {
       setLoading(true);
     }
 
-    setShowNotification(true);
+    //setShowNotification(true);
+    /*
     setTimeout(() => {
       setShowNotification(false);
     }, 11000);
+    */
   };
 
   return (
