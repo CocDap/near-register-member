@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'register-member'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'register.dungho-plats.testnet'
 
 function getConfig(env) {
   switch (env) {
